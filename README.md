@@ -1,6 +1,6 @@
-# aws-whitepaper-notes-zhtw
+# aws-notes-zhtw
 
-讀 AWS White Paper 筆記
+AWS (Amazon Web Services) 筆記
 
 ## 寫在前面
 
